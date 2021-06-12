@@ -1,0 +1,5 @@
+Carlos,Sanchez,20-01-1980,45678.08
+Ana,Alcaide,17-06-1986,35678.08
+Saul,Cerdan,08-09-1990,37578.08
+Jose,Castro,15-03-1989,56789.07
+Pilar,Ferre,05-11-1996,30986.10
